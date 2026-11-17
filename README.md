@@ -45,13 +45,13 @@ web-nexo/
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/PipoXablau/web-nexo.git
 ```
 
 Entre na pasta:
 
 ```bash
-cd nome-do-projeto
+cd web-nexo
 ```
 
 Execute o projeto conforme as instruções
