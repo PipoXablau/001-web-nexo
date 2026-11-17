@@ -22,9 +22,6 @@ Site de noticías, utilizando HTML & CSS.
 - HTML5
 - CSS3
 
-### 03. FUNCIONALIDADES
-
-
 ### 04. ESTRUTURA DO PROJETO
 
 ```text
