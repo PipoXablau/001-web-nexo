@@ -30,14 +30,19 @@ Site de noticías, utilizando HTML & CSS.
 ```text
 web-nexo/
 │
-├── src/
-│   ├── arquivos/
-│   └── componentes/
+├── _css/
+│   ├── admin.css
+│   └── style.css
 │
-├── assets/
+├── _img/
+│   ├──images.png
+│ 
+├── src/
+│   ├── index.html
+│   └── login.php
 │
 ├── README.md
-└── index.html
+└── login.txt
 ```
 
 ### 05. COMO EXECUTAR
