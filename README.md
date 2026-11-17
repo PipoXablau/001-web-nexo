@@ -22,7 +22,7 @@ Site de noticías, utilizando HTML & CSS.
 - HTML5
 - CSS3
 
-### 04. ESTRUTURA DO PROJETO
+### 03. ESTRUTURA DO PROJETO
 
 ```text
 web-nexo/
