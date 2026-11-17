@@ -42,7 +42,7 @@ web-nexo/
 └── login.txt
 ```
 
-### 05. COMO EXECUTAR
+### 04. COMO EXECUTAR
 
 Clone o repositório:
 
@@ -59,12 +59,12 @@ cd web-nexo
 Execute o projeto conforme as instruções
 específicas da aplicação.
 
-### 06. DESENVOLVIMENTO
+### 05. DESENVOLVIMENTO
 
 Projeto desenvolvido com o objetivo de praticar,
 explorar e aprimorar conhecimentos em tecnologia.
 
-### 07. AUTOR
+### 06. AUTOR
 
 **Davi Lima**
 
